@@ -1,10 +1,6 @@
-# NPTEL Certificate: Introduction to Internet of Things
+# NPTEL Certificates
 
-| | |
-|---|---|
-| Course | Introduction to Internet of Things |
-| Session | July–October 2026 (12-week course) |
-| Score | 91% (assignments 24.91/25, exam 66/75) |
-| Credits recommended | 4 |
-
-Certificate: [NPTEL_Introduction_to_IoT_Certificate.pdf](NPTEL_Introduction_to_IoT_Certificate.pdf)
+| Course | Session | Score | Assignments | Exam | Credits | Certificate |
+|---|---|---|---|---|---|---|
+| Introduction to Internet of Things | Jul–Oct 2026 (12 weeks) | 91% | 24.91/25 | 66/75 | 4 | [PDF](NPTEL_Introduction_to_IoT_Certificate.pdf) |
+| Software Testing | Jul–Oct 2026 (12 weeks) | 67% | 24.69/25 | 42/75 | 4 | [PDF](NPTEL_Software_Testing_Certificate.pdf) |
